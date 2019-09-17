@@ -1,7 +1,7 @@
 项目基础及工具
 ==========================
 
-| Tedu Python 教学部 |
+| Tedu Python  |
 | --- |
 | Author：吕泽|
 | Days：3天|
@@ -507,4 +507,4 @@ git push
 httpserver-->webframe  {method:'GET',info:'/'}
 
 webframe-->httpserver {status:'200',data:'ccccc'}
-```
+``` 
